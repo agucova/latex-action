@@ -1,4 +1,4 @@
-FROM danteev/texlive:latest
+FROM ngoquangduong/texlive:full
 
 WORKDIR /root
 
