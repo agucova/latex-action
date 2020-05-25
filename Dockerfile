@@ -1,4 +1,4 @@
-FROM agucova:texlive-unstable
+FROM agucova/texlive-unstable:latest
 
 WORKDIR /root
 
